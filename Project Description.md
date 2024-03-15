@@ -13,6 +13,7 @@ Visualizations:
 Line charts or bar charts to track sales trends over time.
 Pie charts or donut charts to represent sales by product category.
 Tables or heatmaps to display salesperson performance.
+
 (2) Sales of Clothes Shop:
 
 Focus: Deep dive into sales data specifically for a clothing store.
@@ -24,6 +25,7 @@ Visualizations: Can include:
 Stacked bar charts to show sales by brand and category.
 Scatter plots to illustrate size and color preferences.
 KPI (Key Performance Indicator) dials to monitor promotion effectiveness.
+
 (3) ISRO Spacecraft Mission Analysis:
 
 Focus: Comprehensive analysis of ISRO's spacecraft missions.
